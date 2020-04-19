@@ -23,3 +23,6 @@ cookiecutter run ./examples/go-microservice-template SERVICE login VERSION v1
 ```
 
 Example templates, can be found in the [examples folder](./examples/go-microservice-template)
+
+## Contribute
+Pull requests are welcome!
