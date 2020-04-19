@@ -3,9 +3,11 @@
 A command-line utility that creates projects from templates
 
 ## Installation
-- Download the latest binary for your OS release from the [release page](https://github.com/arithran/go-cookiecutter/releases)
-- Make the file executable and rename it to `cookiecutter`
+- Download the latest binary for your OS release from the [releases page](https://github.com/arithran/go-cookiecutter/releases)
+- Rename the file to `cookiecutter`
+- Make the file executable (`chmod +x cookiecutter`)
 - Checkout the help menu for usage instructions `cookiecutter help`
+- (Optional Step) Move it to a folder in your PATH variable. (`mv cookiecutter /bin`)
 
 
 ## Features
