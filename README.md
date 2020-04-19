@@ -2,6 +2,12 @@
 
 A command-line utility that creates projects from templates
 
+## Installation
+- Download the latest binary for your OS release from the [release page](https://github.com/arithran/go-cookiecutter/releases)
+- Make the file executable and rename it to `cookiecutter`
+- Checkout the help menu for usage instructions `cookiecutter help`
+
+
 ## Features
 
 - [x] Basic find and replacement of variables
