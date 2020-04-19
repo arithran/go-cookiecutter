@@ -1,2 +1,4 @@
 /dist
 /cookiecutter
+/.version
+/.ghr

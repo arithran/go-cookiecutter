@@ -20,7 +20,7 @@ dist: $(NAME)-darwin $(NAME)-linux $(NAME)-windows
 
 release:
 	semantic-release -noci -ghr -vf -slug arithran/go-cookiecutter
-	ghr $(cat .ghr) dist/
+	ghr $(cat .ghr) dist
 
 release-dryrun:
 	semantic-release -noci -ghr -vf -slug arithran/go-cookiecutter -dry
