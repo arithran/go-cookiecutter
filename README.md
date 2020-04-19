@@ -23,7 +23,7 @@ The templating language is similar to [handlebars](https://handlebarsjs.com/) or
 cookiecutter run [directory] [find1 replace1 find2 replace2 ...]
 ```
 
-*Example:*
+**Example:**
 This is a handler file in a project directory
 
 ```go
