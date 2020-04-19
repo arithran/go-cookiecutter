@@ -24,6 +24,7 @@ cookiecutter run [directory] [find1 replace1 find2 replace2 ...]
 ```
 
 **Example:**
+
 This is a handler file in a project directory
 
 ```go
