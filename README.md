@@ -14,4 +14,4 @@ A command-line utility that creates projects from templates
 cookiecutter run ./examples/go-microservice-template find1 replace1 find2 replace2
 ```
 
-Example templates, can be found in the [examples folder](./examples)
+Example templates, can be found in the [examples folder](./examples/go-microservice-template)
