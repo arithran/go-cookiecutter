@@ -4,7 +4,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/arithran/go-cookiecutter/cookiecutter"
+	"github.com/arithran/go-cookiecutter/internal/cookiecutter"
 	"github.com/urfave/cli/v2"
 )
 
